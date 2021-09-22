@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Javascript</title>
-    <script src="Par-ou-Impar.js"></script>
+    <script src="xxxxxxxxxxxxx"></script>
 </head>
 
 <body>
